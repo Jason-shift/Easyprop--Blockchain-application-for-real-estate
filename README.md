@@ -28,7 +28,7 @@ Installations-
  
 - Open ganache and create a work space - give a name, click on add project and select the truffle-config.js file provided. 
  
-- Now you have 10 ganache accounts with their own private keys.
+- Now you have 10 metamask accounts with their own private keys.
  
 - In ganache, under mnemonic section, you'll be provided a seed phrase copy it.
  
